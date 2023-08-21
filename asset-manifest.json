@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-final/static/css/main.6b1ed0a1.css",
+    "main.js": "/react-final/static/js/main.29d667ee.js",
+    "static/js/787.0fe84981.chunk.js": "/react-final/static/js/787.0fe84981.chunk.js",
+    "static/media/elden.jpeg": "/react-final/static/media/elden.0adc93b66b7d410ccee7.jpeg",
+    "static/media/wow.png": "/react-final/static/media/wow.8689343696cf0a77c302.png",
+    "static/media/metroidprime.jpeg": "/react-final/static/media/metroidprime.29e18afdcb652de91599.jpeg",
+    "static/media/smg.jpg": "/react-final/static/media/smg.c878b8fe33e2d8f4f2ff.jpg",
+    "static/media/bow.jpg": "/react-final/static/media/bow.f20e5af26a98dd204323.jpg",
+    "static/media/re4.jpg": "/react-final/static/media/re4.a7d00aae08e846971913.jpg",
+    "static/media/diablo.jpeg": "/react-final/static/media/diablo.35d04ae5fdb9eadc35dd.jpeg",
+    "static/media/lozoot.jpg": "/react-final/static/media/lozoot.37c8daae35f80ce6486c.jpg",
+    "static/media/gta3.jpg": "/react-final/static/media/gta3.5abecf172287deee1a52.jpg",
+    "static/media/wwh.jpg": "/react-final/static/media/wwh.12f1e30cbe9a630d870b.jpg",
+    "index.html": "/react-final/index.html",
+    "main.6b1ed0a1.css.map": "/react-final/static/css/main.6b1ed0a1.css.map",
+    "main.29d667ee.js.map": "/react-final/static/js/main.29d667ee.js.map",
+    "787.0fe84981.chunk.js.map": "/react-final/static/js/787.0fe84981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b1ed0a1.css",
+    "static/js/main.29d667ee.js"
+  ]
+}
