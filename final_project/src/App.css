@@ -1,0 +1,177 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* App.css */
+body {
+  background-color: #1d1d1d; /* Dark background */
+  color: #fff; /* Light text color */
+  font-family: "Arial", sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#allGames {
+  background-color: #2d2d2d; /* Slightly darker background for game section */
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+#goy {
+  color: #ff9900; /* MySpace orange */
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.card {
+  border: 2px solid #666; /* Visible borders */
+  border-radius: 15px;
+  background-color: #2d2d2d; /* Dark background for cards */
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+  margin: 20px;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05); /* Slight scale on hover */
+}
+
+.card-img-top {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background-color: #1d1d1d;
+  border-radius: 10px; /* Rounded image */
+}
+
+.list-group-item {
+  background-color: #2d2d2d; /* Darker background for list items */
+  border: none;
+  color: #fff;
+}
+
+#btnAdd {
+  background-color: #ff9900; /* MySpace orange */
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+  padding: 8px 15px;
+}
+
+#btnAdd:hover {
+  background-color: #ff6600; /* Darker orange on hover */
+}
+
+.btn-danger {
+  background-color: #ff3300; /* Bright red */
+  border: none;
+  color: #fff;
+}
+
+.btn-danger:hover {
+  background-color: #cc0000; /* Darker red on hover */
+}
+
+.btn-warning {
+  background-color: #ffcc00; /* Yellow */
+  border: none;
+  color: #fff;
+}
+
+.btn-warning:hover {
+  background-color: #ff9933; /* Darker yellow on hover */
+}
+
+#add {
+  color: #ff9900; /* MySpace orange */
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+/* Update form labels */
+.form-label {
+  color: #ff9900; /* MySpace orange */
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+/* Update form inputs */
+.form-control {
+  border: 2px solid #666; /* Visible borders */
+  border-radius: 8px;
+  padding: 10px;
+  color: #333;
+  background-color: #fff;
+  font-family: "Arial", sans-serif;
+}
+
+/* Customize file input */
+
+.custom-file-upload {
+  background-color: #ff9900; /* MySpace orange */
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+}
+
+/* Update "Add Game" button */
+#btnAdd {
+  background-color: #ff9900; /* MySpace orange */
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+
+#btnAdd:hover {
+  background-color: #ff6600; /* Darker orange on hover */
+}
+
+
+*{
+  font-family: 'Bangers', cursive;
+}
